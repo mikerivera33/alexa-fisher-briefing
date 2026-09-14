@@ -1,2 +1,4 @@
-# alexa-fisher-briefing
-Alexa Fisher interview briefing for Health-E Commerce / FSA Store — live HTML + PDF
+# Alexa Fisher interview briefing
+
+Live HTML: open `briefing.html`.
+PDF: download from the study desk or this repo.
